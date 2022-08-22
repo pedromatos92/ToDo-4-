@@ -12,7 +12,7 @@ y = entrada (" O que deseja?");
 
 w = entrada ("Para que ?");
 
-console.log ('como' + " " + `${x}`+ " " + 'desejo um' + " " + `${y}`+ " " + ' para' + " " + `${w}`)
+console.log ('como' + " " + `${x}`+ " " + 'desejo uma' + " " + `${y}`+ " " + ' para' + " " + `${w}`)
 
 
 
